@@ -29,7 +29,7 @@ if "chat_history" not in st.session_state:
 # LOGIN PAGE
 # ------------------------
 if not st.session_state.authenticated:
-    st.title("🔑 Welcome to Bibli Q&A (KJV)")
+    st.title("🔑 Welcome to Bible Q&A (KJV)")
     st.write("Please log in with your email and password:")
 
     with st.form("login_form"):
@@ -64,7 +64,7 @@ if not st.session_state.authenticated:
 # MAIN CHAT PAGE
 # ------------------------
 if st.session_state.authenticated:
-    st.title("📖 Biblia Q&A Chatbot (KJV)")
+    st.title("📖 Bible Q&A Chatbot (KJV)")
 
     # ---- Sidebar: Logout + Chat History ----
     if st.sidebar.button("🚪 Logout"):
