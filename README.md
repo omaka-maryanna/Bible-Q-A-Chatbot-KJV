@@ -1,3 +1,5 @@
+
+
 **BIBLIA CHATBOT**
 
 This an AI driven chatbot that allows you to ask quetions from the bibie,
@@ -19,9 +21,7 @@ bible study
 *   **Clean Streamlit UI** for smooth interaction
 
 
-## Tech Stack
-
-* **Frontend/UI** → [Streamlit](https://streamlit.io/)
+## Tech Stack [Streamlit](https://streamlit.io/)
 * **Backend API** → [Groq LLM](https://groq.com/)
 * **Dataset** → King James Version (KJV) Bible
 * **Language** → Python 3.10+
@@ -32,15 +32,13 @@ bible study
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/<your-username>/Biblia-Chatbot.git
-cd Biblia-Chatbot
+git clone https://github.com/omaka-maryanna/Bible-Q-A-Chatbot-KJV.git
 ```
 
 2. **Set up a virtual environment**
 
 ```bash
 python -m venv venv
-source venv/bin/activate   # On Mac/Linux
 venv\Scripts\activate      # On Windows
 ```
 
