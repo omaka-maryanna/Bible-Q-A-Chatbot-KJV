@@ -8,8 +8,6 @@ reference.
 It is fast, easy and available for all believer who wants a more interactive 
 bible study
 
-Here’s a solid starting point:
-
 
 ##  Features
 
@@ -28,21 +26,6 @@ Here’s a solid starting point:
 * **Dataset** → King James Version (KJV) Bible
 * **Language** → Python 3.10+
 
----
-
-## 📂 Project Structure
-
-```bash
-Biblia-Chatbot/
-│── app.py              # Main Streamlit app
-│── groq_api.py         # Groq API integration
-│── kjv.csv             # Bible dataset (KJV)
-│── requirements.txt    # Python dependencies
-│── .env                # API keys & secrets
-│── README.md           # Project documentation
-```
-
----
 
 ##  Installation
 
@@ -73,7 +56,6 @@ pip install -r requirements.txt
 ```env
 GROQ_API_KEY=your_groq_api_key
 ```
-
 
 ##  Run the App
 
