@@ -1,4 +1,5 @@
 **BIBLIA CHATBOT**
+
 This an AI driven chatbot that allows you to ask quetions from the bibie,
 you can simply ask questons like, what does the bible says about forgiveness
 and biblia will give you a clear explanation with backup scriptures for your
@@ -10,17 +11,17 @@ bible study
 Here’s a solid starting point:
 
 
-## 🚀 Features
+##  Features
 
-* 🔑 **User Authentication** (Login & Logout system with email + password)
-* 📜 **Ask Bible Questions** → Answers generated from the **KJV dataset**
-* ⚡ **Groq-Powered Responses** → Ultra-fast, real-time answers
-* 📝 **Chat History** → Keeps track of past conversations
-* 👁️ **Password Toggle** → Show/hide password during login
-* 🎨 **Clean Streamlit UI** for smooth interaction
+*  **User Authentication** (Login & Logout system with email + password)
+*  **Ask Bible Questions** → Answers generated from the **KJV dataset**
+*  **Groq-Powered Responses** → Ultra-fast, real-time answers
+*  **Chat History** → Keeps track of past conversations
+*  **Password Toggle** → Show/hide password during login
+*   **Clean Streamlit UI** for smooth interaction
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **Frontend/UI** → [Streamlit](https://streamlit.io/)
 * **Backend API** → [Groq LLM](https://groq.com/)
@@ -43,7 +44,7 @@ Biblia-Chatbot/
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 1. **Clone the repository**
 
@@ -74,13 +75,13 @@ GROQ_API_KEY=your_groq_api_key
 ```
 
 
-## ▶️ Run the App
+##  Run the App
 
 ```bash
 streamlit run app.py
 ```
 
-## 🌐 Deployment
+## Deployment
 
 You can deploy on:
 
@@ -88,7 +89,7 @@ You can deploy on:
 * **Render / Vercel / Railway** for scalable hosting
 
 
-## ✨ Author
+##  Author
 
-👩‍💻 **Maryanna Omaka**
-📧 [omakamaryanna2018@gmail.com]
+ **Maryanna Omaka**
+ [omakamaryanna2018@gmail.com]
